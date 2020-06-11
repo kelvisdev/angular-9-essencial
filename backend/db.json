@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Videogame",
+      "price": "1500",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "price": "234",
+      "id": 7
+    }
+  ]
+}
